@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#buttonGenExcuse {
+  background-color: white;
+  margin-top: 50px;
+}
+
+#excuse {
+  margin-top: 40px;
+}
+
